@@ -1,0 +1,896 @@
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: No module named 'google.auth'
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 158, in _credentials_from_default_auth
+    import google.auth as google_auth
+ModuleNotFoundError: No module named 'google.auth'
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Failed to load vertex credentials. Check to see if credentials containing partial/invalid information. Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Traceback (most recent call last):
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 430, in get_access_token
+    _credentials, credential_project_id = self.load_auth(
+                                          ~~~~~~~~~~~~~~^
+        credentials=credentials, project_id=project_id
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 114, in load_auth
+    creds, creds_project_id = self._credentials_from_default_auth(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        scopes=["https://www.googleapis.com/auth/cloud-platform"]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\litellm\llms\vertex_ai\vertex_llm_base.py", line 160, in _credentials_from_default_auth
+    return google_auth.default(scopes=scopes)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\theka\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\auth\_default.py", line 748, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
