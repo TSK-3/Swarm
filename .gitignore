@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+coverage
+.env*.local
+.swarm-runs
+generated-projects
+playwright-report
+test-results
+*.tsbuildinfo
+.next-dev*.log
